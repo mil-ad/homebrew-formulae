@@ -73,7 +73,7 @@ class Skhd < Formula
           <key>EnvironmentVariables</key>
           <dict>
             <key>PATH</key>
-            <string>#{HOMEBREW_PREFIX}/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/miladalizadeh/.local/bin</string>
+            <string>#{HOMEBREW_PREFIX}/opt/grep/libexec/gnubin:#{HOMEBREW_PREFIX}/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/miladalizadeh/.local/bin</string>
           </dict>
           <key>RunAtLoad</key>
           <true/>
