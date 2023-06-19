@@ -2,7 +2,7 @@ class Skhd < Formula
   desc "Simple hotkey-daemon for macOS."
   homepage "https://github.com/koekeishiya/skhd"
   url "https://github.com/mil-ad/skhd/archive/v0.3.9.zip"
-  sha256 "3832df8b3a7156f2a3d512c6fae8b4cb8bbd2b8a484ab672508788a2c46b72a2"
+  sha256 "b953899cf01ffb7eca9710fd413a7442cba62da68936c78e582165dd91a70389"
   head "https://github.com/mil-ad/skhd.git"
 
   def install
